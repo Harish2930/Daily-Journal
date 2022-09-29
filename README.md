@@ -8,4 +8,3 @@ Tech stack used:<br>
 ✅ EJS<br>
 ☑️ Deployment with Heroku <br>
 Link 👇<br>
-https://daily-journal2930.herokuapp.com
